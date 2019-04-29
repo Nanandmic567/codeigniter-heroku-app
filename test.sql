@@ -1,0 +1,1 @@
+CREATE`log_chat` TABLE `log`.`log_chat`( `id` INT(4) NOT NULL AUTO_INCREMENT , `user_line_id` VARCHAR(50) , `text` VARCHAR(5000) , `date` DATETIME , PRIMARY KEY (`id`) );
